@@ -506,3 +506,12 @@ This project is part of an academic evaluation and meets all specified acceptanc
 
 **🏥 San Vicente Hospital - Hospital Management System**  
 *Developed with ❤️ in C# and .NET 8.0*
+
+
+**Uses case diagram**
+
+![Uses cases diagram](/Diagrams/use_case.png)
+
+**Classes diagram**
+
+![classes diagram](/Diagrams/classes_diagram.png)
