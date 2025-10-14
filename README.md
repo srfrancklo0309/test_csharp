@@ -523,3 +523,11 @@ This project is part of an academic evaluation and meets all specified acceptanc
 ```bash
 https://github.com/srfrancklo0309/test_csharp.git
 ```
+
+**Images of project 🖼️**
+
+![Project image](/Diagrams/Captura%20desde%202025-10-14%2018-27-52.png)
+
+![Project image](/Diagrams/Captura%20desde%202025-10-14%2018-29-58.png)
+
+![Project image](/Diagrams/Captura%20desde%202025-10-14%2018-31-16.png)
